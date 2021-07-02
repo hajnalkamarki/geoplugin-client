@@ -1,0 +1,19 @@
+DEBUG:root:2021-05-27 17:21:30.264950 info function has been called
+ERROR:root:2021-05-27 17:56:40.063390 IP Address error - invalid literal for int() with base 10: 'xxx'
+ERROR:root:2021-05-27 17:57:10.438577 IP Address error - invalid literal for int() with base 10: 'xxx'
+ERROR:root:2021-05-27 17:58:12.014188 IP Address error - invalid literal for int() with base 10: '245ppppp'
+DEBUG:root:2021-05-27 18:00:54.647706 info function has been called
+DEBUG:root:2021-05-27 18:00:54.647706 get_info function has been called
+DEBUG:root:2021-05-27 18:00:54.647706 make_request function has been called
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): www.geoplugin.net:80
+DEBUG:urllib3.connectionpool:http://www.geoplugin.net:80 "GET /json.gp?ip=84.3.102.245 HTTP/1.1" 200 956
+DEBUG:root:2021-05-27 18:01:37.655836 info function has been called
+DEBUG:root:2021-05-27 18:01:37.656834 get_info function has been called
+DEBUG:root:2021-05-27 18:01:37.656834 make_request function has been called
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): www.geoplugin.net:80
+DEBUG:urllib3.connectionpool:http://www.geoplugin.net:80 "GET /json.gp?ip=127.0.+0.1 HTTP/1.1" 200 956
+DEBUG:root:2021-05-27 18:14:19.499939 info function has been called
+DEBUG:root:2021-05-27 18:14:19.499939 get_info function has been called
+DEBUG:root:2021-05-27 18:14:19.499939 make_request function has been called
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): www.geoplugin.net:80
+DEBUG:urllib3.connectionpool:http://www.geoplugin.net:80 "GET /json.gp?ip=127.0.+0.1 HTTP/1.1" 200 956

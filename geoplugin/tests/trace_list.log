@@ -1,0 +1,15 @@
+ERROR:root:2021-05-27 19:14:17.120263 IP Address error - IP Address format was invalid: 
+ERROR:root:2021-05-27 19:14:17.120263 IP Address error - IP Address format was invalid: IP ADDRESS
+ERROR:root:2021-05-27 19:14:17.120263 IP Address error - invalid literal for int() with base 10: 'AA'
+DEBUG:root:2021-05-27 19:14:17.120263 info function has been called
+DEBUG:root:2021-05-27 19:14:17.120263 get_info function has been called
+DEBUG:root:2021-05-27 19:14:17.120263 make_request function has been called
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): www.geoplugin.net:80
+DEBUG:urllib3.connectionpool:http://www.geoplugin.net:80 "GET /json.gp?ip=127.0.+0.1 HTTP/1.1" 200 956
+DEBUG:root:2021-05-27 19:14:22.630581 get_info function has been called
+DEBUG:root:2021-05-27 19:14:22.630581 make_request function has been called
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): www.geoplugin.net:80
+DEBUG:urllib3.connectionpool:http://www.geoplugin.net:80 "GET /json.gp?ip=127.0.+0.1 HTTP/1.1" 200 956
+DEBUG:root:2021-05-27 19:14:22.779317 make_request function has been called
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): www.geoplugin.net:80
+DEBUG:urllib3.connectionpool:http://www.geoplugin.net:80 "GET /json.gp HTTP/1.1" 200 956
